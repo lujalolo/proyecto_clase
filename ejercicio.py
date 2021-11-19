@@ -7,3 +7,4 @@ def metodo1(apellidos):
 #Ejercicio 2 -> Hacer metodo que reciba una cadena y la pinte por consola en mayusculas
 
 
+.
