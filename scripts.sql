@@ -1,8 +1,5 @@
-
--- Ejemplo de create table
-
-
--- Ejemplo de consulta
-
-
--- Ejemplo de Alter table
+create table alumnos(
+	id INT(10) auto_increment not null,
+	nombre VARCHAR(100),
+	apellidos VARCHAR(150)
+);
