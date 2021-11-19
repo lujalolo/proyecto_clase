@@ -5,6 +5,7 @@ create table alumnos(
     nombre varchar(600),
     apellidos varchar(150),
     curso int(1),
+    constraint alumnos_pk primary key
 );
 
 -- Ejemplo de consulta
