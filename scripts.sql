@@ -1,11 +1,9 @@
 
 -- Ejemplo de create table
-create table ejercito (
+create table alumnos (
 id int (10) auto_increment not null,
-infanteria int (100) not null,
-caballeria int (100) not null,
-arqueros int (100) not null,
-constraint ejercito_pk primary key (id)
+nombre varchar (100),
+apellidos varchar (150)
 );
 
 
