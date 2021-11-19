@@ -1,7 +1,9 @@
 
 -- Ejemplo de create table
-CREATE TABLE bicicletas(
-    id int(10) not null auto_increment,
+CREATE TABLE alumnos(
+    id int(10) auto_increment not null,
+    nombre varchar(100),
+    apellidos varchar(100)
 );
 
 -- Ejemplo de consulta
