@@ -1,9 +1,9 @@
 
 -- Ejemplo de create table
-CREATE TABLE Jugadores(
+CREATE TABLE alumnos(
     id int(10) auto_increment not null,
-    nombre varchar(50) not null,
-    primary key (id)
+    nombre varchar(100),
+    apellidos varchar(150),
 );
 
 
