@@ -5,7 +5,8 @@ def minusculas(cadena):
     print(cadena)
     return cadena
 
-
+def metodo1(nombre):
+    print(nombre)
 
 #Ejercicio 2 -> Hacer metodo que reciba una cadena y la pinte por consola en mayusculas
 
