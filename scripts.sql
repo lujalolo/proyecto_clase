@@ -6,6 +6,7 @@ nombre varchar(100),
 apellidos varchar(150)
 );
 
+
 -- Ejemplo de consulta
 
 
