@@ -1,5 +1,10 @@
 
 -- Ejemplo de create table
+create table alumnos(
+    id int(10) auto_increment not null,
+    nombre varchar(100),
+    apellidos varchar(100),
+);
 
 
 -- Ejemplo de consulta
