@@ -7,7 +7,7 @@ create table alumnos (
 );
 
 -- Ejemplo de consulta
-select * from personajes;
+select * from alumnos;
 
 -- Ejemplo de Alter table
-Alter table personajes auto_increment = 1;
+Alter table alumnos auto_increment = 1;
