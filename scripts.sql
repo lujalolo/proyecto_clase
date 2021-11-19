@@ -8,6 +8,7 @@ create table alumnos(
 );
 
 -- Ejemplo de consulta
-
+select * from luchadores ;
 
 -- Ejemplo de Alter table
+alter table luchadores auto_increment = 1;
